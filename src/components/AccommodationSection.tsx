@@ -18,16 +18,16 @@ const AccommodationSection = () => {
          <div className="text-center mt-8 space-y-4">
           <p className="font-serif text-sm md:text-lg text-muted-foreground max-w-xl mx-auto leading-relaxed">
             All of our wedding celebrations will take place at the wedding
-            hotel, and we'd love for everyone to stay with us.
+            hotel and we'd love for everyone to stay with us.
           </p>
           <p className="font-serif text-sm md:text-lg text-muted-foreground max-w-xl mx-auto leading-relaxed">
             The hotel has been beautifully refurbished and offers a calm,
             welcoming space to spend these days together. Waking up knowing
-            everyone is close by makes the experience feel easier, warmer, and
+            everyone is close by makes the experience feel easier, warmer and
             more special.
           </p>
           <p className="font-serif text-sm md:text-lg text-muted-foreground max-w-xl mx-auto leading-relaxed">
-           Guests will need to book and pay for their own rooms. We've arranged locked-in room rates exclusively for our guests, and a booking link with full details will be shared closer to the date.
+           Guests will need to book and pay for their own rooms. We've arranged locked in room rates exclusively for our guests and a booking link with full details will be shared closer to the date.
           </p>
           <p className="font-serif text-sm md:text-lg text-muted-foreground max-w-xl mx-auto leading-relaxed">
             All food and drinks during the wedding events will be taken care of by us; breakfast too.
