@@ -18,7 +18,7 @@ const destinations: Destination[] = [
     title: "Goa (Relaxed + Fun)",
     octoberTitle: "Why it's great in October:",
     octoberPoints: [
-      "Monsoon ends — greenery + fewer crowds",
+      "Monsoon ends greenery + fewer crowds",
       "Beach clubs reopen, weather is pleasant (not crazy hot)",
     ],
   },
