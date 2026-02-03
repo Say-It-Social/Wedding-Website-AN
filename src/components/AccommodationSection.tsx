@@ -30,7 +30,7 @@ const AccommodationSection = () => {
            Guests will book and pay for their own rooms, and we've arranged locked-in room rates exclusively for our guests. A booking link with full details will be shared closer to the date.
           </p>
           <p className="font-serif text-sm md:text-lg text-muted-foreground max-w-xl mx-auto leading-relaxed">
-          All food and drinks during the wedding events will be taken care of by us, breakfast too.
+            All food and drinks during the wedding events will be taken care of by us; breakfast too.
           </p>
         </div>
 
@@ -79,8 +79,7 @@ const AccommodationSection = () => {
           <div className="text-center">
             <p className="font-serif text-xs md:text-sm text-amber-900/80 leading-relaxed">
               Also, if you would like to stay at the hotel before and after the wedding, please
-              <br />
-             do tell us, and we can sort this out for you too.
+              do tell us and we can sort this out for you too.
             </p>
           </div>
         </div>

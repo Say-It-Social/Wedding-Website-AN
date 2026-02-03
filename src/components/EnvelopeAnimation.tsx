@@ -42,17 +42,27 @@ const EnvelopeAnimation = ({ onComplete }: EnvelopeAnimationProps) => {
           transition={{ duration: 0.5 }}
         >
           {/* Main envelope body — cropped to hide blue shadow at edges */}
-          <img 
-            src={envelopeImg} 
-            alt="Envelope" 
-            className="w-full h-auto outline-none shadow-none block"
-            style={{ 
-              outline: 'none', 
-              boxShadow: 'none', 
-              filter: 'none',
-              clipPath: 'inset(3% 2% 8% 5%)',
-            }}
-          />
+          <div className="relative w-full">
+            <img 
+              src={envelopeImg} 
+              alt="Envelope" 
+              className="w-full h-auto outline-none shadow-none block"
+              style={{ 
+                outline: 'none', 
+                boxShadow: 'none', 
+                filter: 'none',
+                clipPath: 'inset(3% 2% 8% 5%)',
+              }}
+            />
+            {/* Blur overlay for top area where logo overlaps */}
+            <div 
+              className="absolute top-0 left-0 right-0 h-[25%] pointer-events-none"
+              style={{
+                background: 'linear-gradient(to bottom, rgba(255, 240, 245, 0.3) 0%, transparent 100%)',
+                filter: 'blur(2px)',
+              }}
+            />
+          </div>
           
           {/* Wax Seal - positioned on the envelope flap */}
           <motion.div

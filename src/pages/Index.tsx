@@ -90,12 +90,12 @@ const Index = () => {
                       honoured to share these moments with you.
                     </p>
                     <p className="font-lora text-sm">
-                      We met in October 2023 at a Diwali party, and from there,
+                      We met in October 2023 at a Diwali party and from there 
                       everything seemed to fall into place. We were civilly
-                      married in May 2025, and now, in October 2026, we’re
+                      married in May 2025 and now in October 2026 we're
                       coming together in Udaipur for the grand finale: a
-                      celebration with all of you, filled with colour,
-                      tradition, and joy.
+                      celebration with all of you filled with colour,
+                      tradition and joy.
                     </p>
                   </section>
                   <div className="flex justify-center py-6">

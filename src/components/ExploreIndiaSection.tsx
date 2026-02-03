@@ -50,7 +50,7 @@ const destinations: Destination[] = [
   {
     image: destination5,
     title: "Jaipur + Agra (Royal + Iconic India)",
-    octoberTitle: "Why October works::",
+    octoberTitle: "Why October works:",
     octoberPoints: [
       "Comfortable sightseeing weather",
       "Festive season starting",

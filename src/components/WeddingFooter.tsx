@@ -1,6 +1,12 @@
 import backgroundMobile from '@/assets/background-3.jpeg';
+import { useLocation } from 'react-router-dom';
 
 const WeddingFooter = () => {
+  const location = useLocation();
+  const isHomePage = location.pathname === '/';
+  const isRSVPPage = location.pathname === '/rsvp';
+  const showMessage = isHomePage || isRSVPPage;
+
   return (
     <>
       <style>{`
@@ -22,9 +28,11 @@ const WeddingFooter = () => {
         
         {/* INNER CONTAINER – CONTROLS CONTENT WIDTH */}
         <div className="max-w-6xl mx-auto flex flex-col items-center">
-          <p className="font-lora text-sm md:text-base text-primary text-center mb-8 italic">
-            We can't wait to celebrate, laugh, and create memories together as part of this festival.
-          </p>
+          {showMessage && (
+            <p className="font-lora text-sm md:text-base text-primary text-center mb-8 italic">
+              We can't wait to celebrate, laugh, and create memories together as part of this festival.
+            </p>
+          )}
         </div>
       </footer>
     </>
