@@ -36,7 +36,7 @@ const TravelSection = () => {
           <p className="text-base md:text-xl text-muted-foreground leading-relaxed text-center">
             If you arrive in Udaipur a day earlier, we'd love to begin the
             celebrations together with a relaxed evening in the heart of the
-            city, good food, and time to settle in before the days ahead. Please
+            city, good food and time to settle in before the days ahead. Please
             let us know if this is part of your plan so we can organise it
             together.
           </p>
