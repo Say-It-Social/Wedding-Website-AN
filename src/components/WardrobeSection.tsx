@@ -36,7 +36,7 @@ const events: WeddingEvent[] = [
     date: "OCTOBER 27, 2026",
     dateImage: dateOct27,
     title: "Haldi Hues",
-    subtitle: "Light Indian wear or indo-western",
+    subtitle: "Light Indian wear or indo western",
     additionalNote: "Comfort over fashion I would say. Turmeric has no mercy.",
     description: [],
     outfitImage: outfit2,
@@ -68,7 +68,7 @@ const events: WeddingEvent[] = [
     outfitImage: outfit5,
     
     womenNote:
-      "Dress to impress — just don't try to look better than my wife.",
+      "Dress to impress just don't try to look better than my wife.",
     menNote: "Black tie / tuxedo",
     note: "Please don't be that guy who turns up in a grey suit",
   },
