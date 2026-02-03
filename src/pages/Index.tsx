@@ -86,7 +86,7 @@ const Index = () => {
                       As we begin this new chapter of our lives, we’re
                       incredibly grateful to celebrate our wedding in Udaipur
                       with the people who mean the most to us. Your love,
-                      blessings, and presence truly mean everything, and we’re
+                      blessings and presence truly mean everything and we’re
                       honoured to share these moments with you.
                     </p>
                     <p className="font-lora text-sm">
