@@ -41,7 +41,7 @@ const TravelSection = () => {
             together.
           </p>
           <p className="text-base md:text-xl text-muted-foreground leading-relaxed text-center">
-            Once you've booked your flights, please share the details with us,
+            Once you've booked your flights, please share the details with us
             and we'll help coordinate travel so everyone arrives comfortably and
             without stress.
           </p>
