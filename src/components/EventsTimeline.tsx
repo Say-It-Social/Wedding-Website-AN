@@ -190,7 +190,7 @@ const EventsTimeline = () => {
       date: 'WEDNESDAY, OCTOBER 28, 2026',
       time: '7 PM ONWARDS',
       description:
-        ['Dinner, music, dancing, and one last night together.'],
+        ['Dinner, music, dancing and one last night together.'],
       icon: finaleIcon,
     },
   ];
