@@ -166,7 +166,7 @@ const EventsTimeline = () => {
       description: (
         <>
           <p className="font-bold text-primary">Jaan Entrance | 4:00 PM</p>
-          <p className="mb-2">The groom’s arrival, filled with music and energy.</p>
+          <p className="mb-2">The groom’s arrival filled with music and energy.</p>
           <p>Please join in and celebrate with us.</p>
           <p className="font-bold text-primary">Wedding Ceremony | 5:30 PM - 7:00 PM</p>
           <p>As the sun begins to set, Aditi will make her entrance and the ceremony will unfold surrounded by family, tradition and love.</p>
@@ -181,7 +181,7 @@ const EventsTimeline = () => {
       date: 'WEDNESDAY, OCTOBER 28, 2026',
       time: '11 AM ONWARDS',
       description:
-        ["This is not a wind-down, it's the warm-up. A high-energy daytime celebration with music, colour and just enough chaos to set the tone for the final night. Pace yourselves, the best is yet to come."],
+        ["This is not a wind down, it's the warm up. A high energy daytime celebration with music, colour and just enough chaos to set the tone for the final night. Pace yourselves, the best is yet to come."],
           
       icon: poolpartyIcon,
     },
