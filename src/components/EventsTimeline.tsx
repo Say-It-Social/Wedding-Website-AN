@@ -123,7 +123,7 @@ const EventsTimeline = () => {
       
       description: [
     'Arrivals and Check-in',
-    'Take your time, unpack, catch up with familiar faces, and ease into the days ahead.',
+    'Take your time, unpack, catch up with familiar faces and ease into the days ahead.',
     'There might be a cold cocktail waiting for you, who knows.',
   ],
       icon: icon1,
