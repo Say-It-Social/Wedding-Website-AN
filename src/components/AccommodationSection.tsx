@@ -26,8 +26,8 @@ const AccommodationSection = () => {
             everyone is close by makes the experience feel easier, warmer, and
             more special.
           </p>
-          <p className="font-serif text-sm md:text-lg text-muted-foreground max-w-xl mx-auto leading-relaxed">
-           Guests will book and pay for their own rooms, and we've arranged locked-in room rates exclusively for our guests. A booking link with full details will be shared closer to the date.
+          <p className="font-serif text-sm md:text-lg text-muted-foreground max-w-xl mx-auto leading-relaxed font-semibold">
+           Guests will need to book and pay for their own rooms. We've arranged locked-in room rates exclusively for our guests, and a booking link with full details will be shared closer to the date.
           </p>
           <p className="font-serif text-sm md:text-lg text-muted-foreground max-w-xl mx-auto leading-relaxed">
             All food and drinks during the wedding events will be taken care of by us; breakfast too.
