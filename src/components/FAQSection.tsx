@@ -32,7 +32,7 @@ const faqs: FAQItem[] = [
   },
   {
     question: "Will there be an open bar?",
-    answer: ["Sip, sip, hooray! Yes — there will be an open bar at all events where alcohol is being served."],
+    answer: ["Sip, sip, hooray! Yes there will be an open bar at all events where alcohol is being served."],
   },
   {
     question: "Would you advise getting a car?",
