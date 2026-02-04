@@ -49,9 +49,9 @@ const events: WeddingEvent[] = [
     outfitImage: outfit3,
     womenNote:
       "Indian attire only (lehenga or sari preferred)",
-    menNote: "Indian attire only (lehenga or sari preferred)",
+    menNote: "Indian attire only (Jabha, Waist Coat & Kurta preferred)",
     note:
-      "Please do not wear white and red as these colours are reserved for my wife. Even white shirts and trousers.",
+      "Please do not wear white and red as these colours are reserved for my wife. This includes white shirts and trousers.",
   },
   {
     date: "",

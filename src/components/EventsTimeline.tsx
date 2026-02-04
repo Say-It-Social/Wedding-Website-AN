@@ -154,8 +154,7 @@ const EventsTimeline = () => {
       date: 'TUESDAY, OCTOBER 27, 2026',
       time: '11 AM ONWARDS',
       description:
-        ["A joyful Haldi ceremony filled with colour, laughter, tradition and very likely a bit of mess.",
-          "Wear something you won't be too attached to."
+        ["A joyful Haldi ceremony filled with colour, laughter, tradition and very likely a bit of mess."
         ],
       icon: haldiIcon,
     },
