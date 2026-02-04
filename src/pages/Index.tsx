@@ -93,7 +93,7 @@ const Index = () => {
                       We met in October 2023 at a Diwali party and from there 
                       everything seemed to fall into place. We were civilly
                       married in May 2025 and now in October 2026 we're
-                      coming together in Udaipur for the grand finale a
+                      coming together in Udaipur for the grand finale, a
                       celebration with all of you filled with colour,
                       tradition and joy.
                     </p>
